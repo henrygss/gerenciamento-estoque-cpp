@@ -1,0 +1,37 @@
+# Ignore arquivos e pastas do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore arquivos de build
+build/
+x64/
+*.exe
+*.dll
+*.obj
+*.log
+*.pch
+*.ipch
+*.pdb
+*.idb
+
+# Ignore arquivos temporários
+*.tmp
+*.cache
+*.bak
+*.ncb
+*.sdf
+
+# Ignore arquivos de sistema
+Thumbs.db
+.DS_Store
+
+# Ignore arquivos específicos de C++
+*.o
+*.gch
+*.out
+
+# Ignore backups do editor
+*~
