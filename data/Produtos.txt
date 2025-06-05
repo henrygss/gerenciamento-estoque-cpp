@@ -1,0 +1,30 @@
+2;Arroz Branco 5kg;Tio João;23,900000;30;10/12/2025;10
+3;Feijão Carioca;Camil;8,500000;25;20/11/2025;10
+4;Macarrão Espaguete;Renata;4,900000;40;05/09/2026;15
+5;Óleo de Soja;Liza;6,800000;25;01/04/2026;15
+6;Açúcar Cristal 1kg;União;4,200000;30;12/08/2025;20
+7;Sal Refinado;Cisne;2,500000;30;18/10/2026;20
+8;Farinha de Trigo 1kg;Dona Benta;5,600000;25;22/12/2025;15
+9;Leite UHT Integral;Italac;4,990000;40;15/01/2026;20
+10;Café Torrado 500g;Pilão;12,900000;30;30/06/2025;10
+11;Achocolatado 400g;Nescau;7,500000;40;14/07/2026;20
+12;Molho de Tomate 340g;Heinz;3,800000;35;28/02/2026;15
+13;Manteiga 200g;Aviação;12,300000;20;07/09/2025;15
+14;Queijo Mussarela 500g;Tirol;19,800000;20;19/06/2025;10
+15;Presunto 200g;Sadia;9,600000;25;22/06/2025;15
+16;Refrigerante 2L;Coca-Cola;8,990000;50;01/12/2025;25
+17;Biscoito Recheado;Trakinas;4,000000;30;10/10/2025;5
+18;Água Mineral 1,5L;Minalba;4,600000;60;20/05/2026;25
+19;Sabão em Pó 1,6kg;Omo;16,700000;20;//;5
+20;Detergente 500ml;Ypê;3,200000;35;//;15
+21;Desinfetante 1L ;Veja;7,400000;20;//;10
+22;Sabonete em Barra;Dove;3,500000;37;30/11/2026;20
+23;Creme Dental 90g;Colgate Total 12;4,900000;50;20/08/2026;20
+24;Shampoo 350ml;Pantene;15,800000;24;18/10/2026;10
+25;Desodorante Spray 150ml;Rexona;12,900000;33;//;15
+26;Papel Higiênico 12un;Neve;19,900000;55;01/01/2028;20
+27;Alvejante 2L;Qboa;6,700000;23;15/07/2027;15
+28;Amaciante 1L;Comfort;8,400000;20;09/09/2027;10
+29;Água Sanitária 1L;Dragão;4,100000;47;25/03/2027;20
+30;Sabão Líquido 1L;Ariel;14,500000;30;28/02/2027;15
+32;Esponja Multiuso 3un;Scotch-Brite;5,990000;35;//;15
