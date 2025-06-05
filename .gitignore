@@ -1,0 +1,16 @@
+# Ignorar pastas de build
+/build/
+/bin/
+/.vs/
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.ipch
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.cache
+*.DS_Store
+Thumbs.db
