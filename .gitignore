@@ -1,8 +1,6 @@
 # Ignorar pastas de build
 /build/
-/bin/
 /.vs/
-*.exe
 *.pdb
 *.obj
 *.ilk
